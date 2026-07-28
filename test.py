@@ -1,4 +1,4 @@
-# nombre=int(input("entrez un nombre:"))
+frx# nombre=int(input("entrez un nombre:"))
 # parite = nombre%2
 # message= 0
 # while not parite == 0 and message== 0:
