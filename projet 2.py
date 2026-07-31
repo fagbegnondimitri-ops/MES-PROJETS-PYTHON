@@ -1,15 +1,30 @@
 Question=[
-    {"question":"l'anime qui met en valeur la liberte?", "reponse":"l'attaque des titans"},
-    {"question":"le meilleur groupe coreen?", "reponse":"SAJAS BOYS"},
-    {"question":"le surnom de GUNS dans BERSERK apres son integration dans l'unite de griffith?", "reponse":"le tueur de 100 hommes"},
-    {"question":"qui a cree le souffle de la lune", "reponse":"KOKUSHIBO"},
-    {"question":"LE FANTOME DES UCHIWAS?", "reponse":"MADARA UCHIWA"},
+    {"question":"Quel est le nom de la ville où Eren, Mikasa et Armin ont grandi ?", "reponse":"Demon slayer"},
+    {"question":"Quel Titan Ymir (le personnage) possède-t-elle ?", "reponse":"HAINE"},
+    {"question":"Quel est le nom du capitaine qui dirige l'Escouade d'opérations spéciales dont fait partie Eren ?", "reponse":"Livai ackerman"},
+    {"question":"Quel est le nom du pere d'eren ?", "reponse":"GRISHA YEAGER"},
+    {"question":"Qui est le seul survivant de la charge suicidaire d'erwin?", "reponse":"Floch forster"},
+]
+Question=[
+    {"question":"Qui est surnommé la panthere de jade de konoha?", "reponse":"GUY MAITO"},
+    {"question":"le SURNOM DE SHISUI UCHIWA?", "reponse":"le MIRAGE"},
+    {"question":"Le nom du perso le plus intelligents de NARUTO", "reponse":"SHIKAMARU NARA"},
+    {"question":"LE FANTOME DES UCHIWAS QUI EST CE?", "reponse":"MADARA UCHIWA"},
     {"question":"LE NOM DE LA LIMACE DE TSUNADE?", "reponse":"KATSUYU"},
-    {"question":"QUI A CREE LE RASENGAN?", "reponse":"ASHURA OTSUTSUKI"},
-    {"question":"QuI A CREE LE CHIDORI?", "reponse":"INDRA OTSUTSUKI"},
-    {"question":"LE NOM DU PREMIER MEMBRE DE LA BRIGADE FANTOME A MOURIR", "reponse":"uvoguine"},
-    {"question":"EREN A T'IL PU ATTEINDRE LA LIBERTÉ?", "reponse":"NON"},
-    {"question":"DE QUEL CATEGORIES DE NEN EST KURAPIKA?", "reponse":"MATERIALISATION ET SPECIALISATION"},
+]
+Question=[
+    {"question":"Quel est le surnom de light yagami?", "reponse":"kira"},
+    {"question":"Quel était le vrai métier de Naomi Misora avant de rencontrer Light ?", "reponse":"agent du fbi"},
+    {"question":"Quel est le nom du shinigami qui donne le Death Note à Light au début de l'histoire ?", "reponse":"Ryuk"},
+    {"question":"Quel est le véritable nom de L ?", "reponse":"Lawliet"},
+    {"question":"Quel est le nom du shinigami qui accompagne Misa Amane ?", "reponse":"Rem"},
+]
+Question=[
+    {"question":"Quel est le second souffle utilisée par le perso principal", "reponse":"le souffle du soleil"},
+    {"question":"Quel est le nom du demon originel", "reponse":"Muzan kibustsuji"},
+    {"question":"Quel est le nom du souffle utilisé par Tanjiro au début de son entraînement ?", "reponse":"le souffle de l'eau"},
+    {"question":"Quel est le nom du personnage principal de Demon Slayer ?","reponse":"tanjiro kama"},
+    {"question":"Quel est le nom du pilier de l'eau qui rencontre Tanjiro au début de l'histoire ?", "reponse":"Tomioka giyu"},
 ]
 score = 0
 for question in Question:
