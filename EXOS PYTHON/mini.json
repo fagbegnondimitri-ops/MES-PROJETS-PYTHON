@@ -1,0 +1,52 @@
+[
+    {
+        "ENTREPRISE": "ACME SARL",
+        "CONTACT": "diallo",
+        "E_MAIL": "Diallo@acme.com",
+        "TEL": "0102030405",
+        "STATUT": "client",
+        "DATE_DE_CREATION": "2026-08-11",
+        "DATE_DE_MODIFICATION": null,
+        "INTERACTIONS": []
+    },
+    {
+        "ENTREPRISE": "technova Bénin",
+        "CONTACT": "solange",
+        "E_MAIL": "sol@technova.com",
+        "TEL": "0198765432",
+        "STATUT": "prospect",
+        "DATE_DE_CREATION": "2026-08-11",
+        "DATE_DE_MODIFICATION": "2026-08-11",
+        "INTERACTIONS": []
+    },
+    {
+        "ENTREPRISE": "AfriCom Solutions",
+        "CONTACT": "Koffi",
+        "E_MAIL": "koffi@africom.com",
+        "TEL": "0165432198",
+        "STATUT": "client",
+        "DATE_DE_CREATION": "2026-08-11",
+        "DATE_DE_MODIFICATION": null,
+        "INTERACTIONS": []
+    },
+    {
+        "ENTREPRISE": "Digiplus",
+        "CONTACT": "ibrahim",
+        "E_MAIL": "hello@digplus.com",
+        "TEL": "0155667788",
+        "STATUT": "prospect",
+        "DATE_DE_CREATION": "2026-08-11",
+        "DATE_DE_MODIFICATION": null,
+        "INTERACTIONS": []
+    },
+    {
+        "ENTREPRISE": "BeninLogistics",
+        "CONTACT": "mariam",
+        "E_MAIL": "mariam@BeninLogistics.com",
+        "TEL": "0144556677",
+        "STATUT": "inactif",
+        "DATE_DE_CREATION": "2026-08-11",
+        "DATE_DE_MODIFICATION": null,
+        "INTERACTIONS": []
+    }
+]

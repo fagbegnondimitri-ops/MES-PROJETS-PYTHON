@@ -1,0 +1,61 @@
+[
+  {
+    "nom": "ACME SARL",
+    "contact": "M. Diallo",
+    "email": "contact@acme.example",
+    "tel": "0102030405",
+    "statut": "client",
+    "interactions": [
+      {"date": "2026-05-20", "type": "rdv", "note": "Signature du contrat annuel"}
+    ]
+  },
+  {
+    "nom": "Beta Solutions",
+    "contact": "Mme Traoré",
+    "email": "hello@beta.example",
+    "tel": "0605040302",
+    "statut": "prospect",
+    "interactions": [
+      {"date": "2026-07-28", "type": "email", "note": "Envoi de la proposition commerciale"}
+    ]
+  },
+  {
+    "nom": "Gamma Industries",
+    "contact": "M. Bernard",
+    "email": "info@gamma.example",
+    "tel": "0708091011",
+    "statut": "prospect",
+    "interactions": []
+  },
+  {
+    "nom": "Delta Consulting",
+    "contact": "Mme Nguyen",
+    "email": "office@delta.example",
+    "tel": "0122334455",
+    "statut": "inactif",
+    "interactions": [
+      {"date": "2026-01-10", "type": "appel", "note": "A mis le projet en pause"}
+    ]
+  },
+  {
+    "nom": "Epsilon Retail",
+    "contact": "M. Rossi",
+    "email": "achat@epsilon.example",
+    "tel": "0199887766",
+    "statut": "client",
+    "interactions": [
+      {"date": "2026-06-15", "type": "appel", "note": "Point trimestriel"},
+      {"date": "2026-07-30", "type": "email", "note": "Renouvellement discuté"}
+    ]
+  },
+  {
+    "nom": "Zeta Logistique",
+    "contact": "Mme Costa",
+    "email": "contact@zeta.example",
+    "tel": "0155443322",
+    "statut": "client",
+    "interactions": [
+      {"date": "2026-06-01", "type": "rdv", "note": "Démonstration produit"}
+    ]
+  }
+]

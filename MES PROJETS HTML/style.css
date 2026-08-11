@@ -1,0 +1,95 @@
+@font-face {
+        font-family:"BebasNeue-Regular" ;
+        src: url(FONTS/BebasNeue-Regular.ttf);
+    }
+
+
+body{
+    font-family: "BebasNeue-Regular", Verdana;
+    /* vh :100% de la taille de l'ecran */
+    /* background: url(../images/2baeb1bcccc7bd470fe9748cee462d4d.jpg) center/cover; */
+    min-height: 100vh;
+    min-width: 100%;
+    background-color: #0e0d0d;
+    padding-top: 60px;
+   }
+/* @import url('https://fonts.googleapis.com/css2?family=Sekuya&display=swap'); */
+h1{
+    color: rgba(131, 149, 128, 0.459);
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 4px 3px 6px #260e3e94;
+    text-decoration: underline;
+    font-family:'Arial', sans-serif   ;
+} 
+p{color: rgb(192, 2, 2);top: 200px;}
+#accueil{
+       color: rgba(155, 183, 165, 0.276);
+}
+
+h2{
+    color: red;
+    text-transform:lowercase;
+    font-size: 2em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+} 
+h3{
+    color: blanchedalmond;
+    text-transform:lowercase;
+    font-size: 2em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+h4{
+    color: tomato;
+    text-transform:lowercase;
+    font-size: 2em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+} 
+nav{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    background-color: rgb(7, 40, 40);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+main{
+    /* margin: 0 auto; */
+    background: #987878;
+    border: black;
+    border-radius: 20px;
+    box-shadow: 0 0 0 black;
+    padding: 15px ;
+    /* max-width: 700px;            largeur maximale */
+    /* margin: 0 auto;  */
+} 
+#ENVOI{
+    cursor: pointer;
+}
+#ENVOI:hover{
+    background: darkblue;
+}
+#nom{
+    right: 100px;
+    background-color: bisque;
+    bottom: 40px;
+}
+h5{
+    color:rgb(85, 92, 172) ;
+    font-size: 1em;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+}
+h6{
+    font-size: 1em;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+}

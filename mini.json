@@ -1,0 +1,42 @@
+[
+    {
+        "ENTREPRISE": "netpro",
+        "CONTACT": "dim",
+        "E_MAIL": "qwerty",
+        "TEL": "01",
+        "STATUT": "client",
+        "DATE_DE_CREATION": "2026-08-07",
+        "DATE_DE_MODIFICATION": null,
+        "INTERACTIONS": []
+    },
+    {
+        "ENTREPRISE": "frx",
+        "CONTACT": "mira",
+        "E_MAIL": "azerty",
+        "TEL": "02",
+        "STATUT": "client",
+        "DATE_DE_CREATION": "2026-08-07",
+        "DATE_DE_MODIFICATION": null,
+        "INTERACTIONS": []
+    },
+    {
+        "ENTREPRISE": "d",
+        "CONTACT": "d",
+        "E_MAIL": "d",
+        "TEL": "d",
+        "STATUT": "d",
+        "DATE_DE_CREATION": "2026-08-07",
+        "DATE_DE_MODIFICATION": null,
+        "INTERACTIONS": []
+    },
+    {
+        "ENTREPRISE": "qwe",
+        "CONTACT": "er",
+        "E_MAIL": "er",
+        "TEL": "er",
+        "STATUT": "er",
+        "DATE_DE_CREATION": "2026-08-07",
+        "DATE_DE_MODIFICATION": null,
+        "INTERACTIONS": []
+    }
+]
